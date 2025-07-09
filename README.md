@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Yeetogami/Python-Preparation/tree/master/0001-two-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yeetogami/Python-Preparation/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Yeetogami/Python-Preparation/tree/master/0001-two-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yeetogami/Python-Preparation/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
